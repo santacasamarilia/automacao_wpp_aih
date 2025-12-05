@@ -1,5 +1,0 @@
-
-API_KEY=ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw
-POLL=1120311
-HOUR=12
-MINUTE=27
