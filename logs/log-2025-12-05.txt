@@ -1,0 +1,53 @@
+12:26:11 - Agendamento iniciado
+12:26:11 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 10, 25)
+12:26:12 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 10, 25)
+12:26:13 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 10, 25)
+12:26:14 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 10, 25)
+12:26:15 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 10, 25)
+12:26:16 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 10, 25)
+12:26:17 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 10, 25)
+12:26:18 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 10, 25)
+12:26:19 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 10, 25)
+12:26:25 - Agendamento iniciado
+12:26:25 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:26 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:27 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:28 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:29 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:30 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:31 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:32 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:33 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:34 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:35 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:36 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:37 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:38 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:39 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:40 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:41 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:42 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:43 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:44 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:45 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:46 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:47 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:48 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:49 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:50 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:51 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:52 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:53 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:54 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:55 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:56 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:58 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:26:59 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:27:00 - Configuração carregada: ('ak_ErmWoyiAbGrIFkDqezT6BXwhz_q_iH6Yrw', 12, 27)
+12:27:00 - Iniciando envio das notificações
+12:27:00 - Dados carregados do test_data.json
+12:27:00 - Enviando JSON para a Treble
+12:27:00 - JSON enviado: {"users": [{"cellphone": "5514981212342", "country_code": "+55", "user_session_keys": [{"key": "nm_medico", "value": "ANDREI RAMON CAMPOS MENDES"}, {"key": "patient_list", "value": "*Pacientes com Laudo AIH Pendente:*  *FULANO DE TAL* At. 3232113 - VALIDO |     *FULANINHA DE TAL* At. 3441422 - VALIDO |    "}]}, {"cellphone": "5514998381833", "country_code": "+55", "user_session_keys": [{"key": "nm_medico", "value": "ANDREI RAMON CAMPOS MENDES"}, {"key": "patient_list", "value": "*Pacientes com Laudo AIH Pendente:*  *MARIA DE TAL* At. 3782137 - VALIDO |     *FULANO DE TAL* At. 3232113 - VALIDO |     *FULANINHA DE TAL* At. 3441422 - VALIDO |     *MARIA DE TAL* At. 3782137 - VALIDO |    "}]}]}
+12:27:00 - Status da resposta: 200
+12:27:00 - Resposta: {"message": "The poll was deployed", "id": "1120311", "batch_id": "947d856b-001f-48f1-b23e-521aa2b3245f", "new_last_scheduled_deployment": "2025-12-05 15:27:03.266689", "conversations_id": ["4ea4a6490d789e7416b85df0265e829c84e6a6efded19c180b6ded7b", "b264c43b3e51935572eb93be799abe829fcb9ee5be0da874a566d8a0"]}
+12:27:00 - Mensagens enviadas. Aguardando 60 segundos
